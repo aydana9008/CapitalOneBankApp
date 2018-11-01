@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hello Aidana!
-=======
-Hello Aidana!!
-Hello Agaly!
->>>>>>> a0fda4f037076fd9cfc2c15974d65fd993346859
+
