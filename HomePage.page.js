@@ -1,4 +1,5 @@
 //Aidana's commit
+//Agaly's commit
 var CustomLocators = require('../Utilities/customLocators.js');
 var EC = protractor.ExpectedConditions;
 
