@@ -7,7 +7,7 @@ exports.config = {
      { "browserName": "firefox"},       
 //{"browserName": "firefox"}
     ],
-    specs: ['../Tests/capitalOne.spec.js'],
+    specs: ['capitalOneHomePageHeader.spec.js'],
 
     onPrepare: function(){
         browser.driver.manage().window().maximize();
