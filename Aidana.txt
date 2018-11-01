@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Merging conflict 
-=======
-Just practicing for fetching
->>>>>>> branch1
+S
