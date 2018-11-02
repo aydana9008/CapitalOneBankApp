@@ -1,5 +1,1 @@
-
-Spasibo!
-it seems to work
-Just practicing for fetching and nothing else 
-
+Just practicing for fetching and nothing else
