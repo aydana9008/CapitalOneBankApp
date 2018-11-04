@@ -3,3 +3,5 @@ Trying to work with mergetool
 change agaly!
 another one!
 asasaasf
+new change
+new change2
