@@ -1,7 +1,6 @@
 Just practicing for fetching and nothing else, Spasibo!
 change agaly!
 another one!
-<<<<<<< HEAD
 asasaasf
 new change
 new change2
