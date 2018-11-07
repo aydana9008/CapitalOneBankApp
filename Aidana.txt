@@ -4,4 +4,13 @@ another one!
 This part is good
 asasaasf
 
+
 Happy Wednesday!! I love SQL with protractor!!
+
+From Aidana!
+
+
+Hope this works
+
+I dont like SQL with Protractor!!
+>>>>>>> aidBranch
