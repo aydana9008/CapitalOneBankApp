@@ -23,5 +23,7 @@ I dont like SQL with Protractor!!
 >>>>>>> aidBranch
 =======
 I dont like SQL with Protractor!!From Aidana
+
+ME neither ! From Mehmet
 >>>>>>> aidBranch
 >>>>>>> df5dcdd1ce5893624a7e1274851f24ee93c06470
