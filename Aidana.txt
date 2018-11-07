@@ -1,6 +1,10 @@
 Just practicing for fetching and nothing else, Spasibo!
 change agaly!
 another one!
+<<<<<<< HEAD
+=======
+asasaasf
+>>>>>>> bdcbf4ff787978cafe3320a928300550acd02fa8
 new change
 new change2
 this is aidana2
