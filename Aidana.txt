@@ -1,10 +1,9 @@
 Just practicing for fetching and nothing else, Spasibo!
 change agaly!
 another one!
+This part is good
 asasaasf
+<<<<<<< HEAD
 new change
 new change2
 this is aidana2
-let me do some more changes
-merge
-resolve conflicts;
