@@ -12,5 +12,9 @@ From Aidana!
 
 Hope this works
 
+<<<<<<< HEAD
 I dont like SQL with Protractor!!
+>>>>>>> aidBranch
+=======
+I dont like SQL with Protractor!!From Aidana
 >>>>>>> aidBranch
