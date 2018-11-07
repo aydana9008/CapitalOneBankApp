@@ -13,8 +13,12 @@ From Aidana!
 Hope this works
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 I dont like SQL with Protractor!!
 >>>>>>> aidBranch
 =======
 I dont like SQL with Protractor!!From Aidana
+>>>>>>> aidBranch
+=======
+I dont like SQL with Protractor!!From Aidana  
 >>>>>>> aidBranch
