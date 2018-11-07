@@ -4,8 +4,9 @@ another one!
 This part is good
 asasaasf
 
->>>>>>> branch1
 new change
 new change2
 this is aidana2
 Hope this works
+
+I dont like SQL with Protractor!!
