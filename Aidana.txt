@@ -1,24 +1,29 @@
-Just practicing for fetching and nothing else, Spasibo!
-change agaly!
-another one!
-This part is good
-asasaasf
 
 
-Happy Wednesday!! I love SQL with protractor!!
+
+
+
+
+
+
+new change
+Mehmet change
 
 From Aidana!
-
-
-Hope this works
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-I dont like SQL with Protractor!!
->>>>>>> aidBranch
-=======
-I dont like SQL with Protractor!!From Aidana
->>>>>>> aidBranch
-=======
 I dont like SQL with Protractor!!From Aidana  
->>>>>>> aidBranch
+ME neither ! From Mehmet
+I guess we need some more  practice!!! And we will start Loving it!!!))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
